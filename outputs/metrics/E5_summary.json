@@ -1,0 +1,15 @@
+{
+  "experiment": "E5",
+  "model_name": "distilbert-base-uncased",
+  "seed": 42,
+  "checkpoint_selection": "val_macro_f1",
+  "monitor_threshold": 0.5,
+  "learning_rate": 2e-05,
+  "batch_size": 16,
+  "epochs": 5,
+  "max_length": 64,
+  "best_epoch": 4,
+  "best_val_macro_f1": 0.6872581883749339,
+  "history_path": "/content/outputs/metrics/E5_history.csv",
+  "checkpoint_path": "/content/outputs/checkpoints/E5"
+}

@@ -1,0 +1,8 @@
+label,false_negative,false_positive,total_errors
+anger,32,71,103
+disgust,20,18,38
+fear,9,7,16
+joy,49,33,82
+sadness,46,23,69
+surprise,45,43,88
+neutral,51,62,113

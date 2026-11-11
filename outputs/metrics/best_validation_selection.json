@@ -1,0 +1,8 @@
+{
+  "experiment": "E6",
+  "threshold": 0.4,
+  "val_micro_f1": 0.7432712215320911,
+  "val_macro_f1": 0.7097822649023354,
+  "max_length": 128,
+  "checkpoint_folder": "E6"
+}

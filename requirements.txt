@@ -1,0 +1,8 @@
+torch
+transformers==5.22.1
+datasets==4.8.5
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.6.1
+tqdm==4.67.3
+safetensors==0.8.0

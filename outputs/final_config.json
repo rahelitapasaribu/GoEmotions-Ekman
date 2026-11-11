@@ -1,0 +1,22 @@
+{
+  "experiment": "E6",
+  "checkpoint_path": "outputs/checkpoints/E6",
+  "model_name": "distilbert-base-uncased",
+  "max_length": 128,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "best_epoch": 3,
+  "threshold": 0.4,
+  "labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "joy",
+    "sadness",
+    "surprise",
+    "neutral"
+  ],
+  "selection_metric": "validation_macro_f1",
+  "validation_macro_f1": 0.7097822649023354,
+  "validation_micro_f1": 0.7432712215320911
+}
