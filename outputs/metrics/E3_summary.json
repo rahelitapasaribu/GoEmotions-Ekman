@@ -1,0 +1,15 @@
+{
+  "experiment": "E3",
+  "model_name": "distilbert-base-uncased",
+  "seed": 42,
+  "checkpoint_selection": "val_macro_f1",
+  "monitor_threshold": 0.5,
+  "learning_rate": 5e-05,
+  "batch_size": 16,
+  "epochs": 3,
+  "max_length": 64,
+  "best_epoch": 3,
+  "best_val_macro_f1": 0.6879520177755815,
+  "history_path": "/content/outputs/metrics/E3_history.csv",
+  "checkpoint_path": "/content/outputs/checkpoints/E3"
+}

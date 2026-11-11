@@ -1,0 +1,9 @@
+{
+  "experiment": "E6",
+  "threshold": 0.4,
+  "test_metrics": {
+    "micro_f1": 0.7259019924609585,
+    "macro_f1": 0.6711852873578683,
+    "hamming_loss": 0.1584189231248055
+  }
+}
